@@ -48,7 +48,7 @@ int main(){
      */
     
     //test case 6
-     vector<vector<int>> world_state = { {1, 0, 1, 1},
+     vector<vector<int>> world_state = { {1, 0, 0, 1},
      {0, 0, 0, 0} };
      pair<int, int> robot_pose(1, 0), goal_pose(1, 3);
     
